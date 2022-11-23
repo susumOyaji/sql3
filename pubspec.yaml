@@ -33,6 +33,17 @@ dependencies:
     sdk: flutter
   sqlite3: ^1.9.1
   sqlite3_flutter_libs: ^0.5.12
+  http: ^0.13.5  
+  #sqflite: ^2.2.0+3
+  #path:
+  #ath_provider: any
+  intl: ^0.17.0
+  #sembast: ^3.3.1
+  path_provider: ^0.5.0+1
+  # Used for BLoC state management
+  #flutter_bloc: ^8.1.1
+  #equatable: ^0.2.3
+  #bloc: ^8.1.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
